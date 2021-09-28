@@ -1,0 +1,11 @@
+[build]
+exclude = [
+    "/README.md",
+    "sbin",
+    ".gitignore",
+    ".venv",
+    "__pycache__",
+    "poetry.lock",
+    "pyproject.toml",
+    "tests"
+]

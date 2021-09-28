@@ -1,4 +1,4 @@
-# Testing Cloud Run via Function Framework
+# Testing Cloud Run locally via Function Framework
 
 ## Functions Framework for Python
 An open source FaaS (Function as a service) framework for writing portable Python functions -- brought to you by the Google Cloud Functions team.
